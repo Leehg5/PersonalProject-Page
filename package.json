@@ -31,7 +31,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://leehg5.github.io/portfolio-PersonalProject-/",
+  "homepage": "https://leehg5.github.io/PersonalProject-Page/",
   "eslintConfig": {
     "extends": [
       "react-app",
