@@ -5,7 +5,10 @@ import Skill from "./page/Skill";
 import Archiving from "./page/Archiving";
 import Projects from "./page/Projects";
 import Career from "./page/Career";
+import Boot from "./page/Boot";
 import "./App.scss";
+import { Link } from "react-scroll";
+import ExpandLessIcon from "@mui/icons-material/ExpandLess";
 
 const App = () => {
   return (
@@ -30,8 +33,18 @@ const App = () => {
           <div id="e">
             <Career />
           </div>
+          <div id="g">
+            <Boot />
+          </div>
         </div>
       </div>
+
+      <Link to="f" spy={true} smooth={true}>
+        <button class="상단이동">위로가기</button>
+      </Link>
+      <Link to="g" spy={true} smooth={true}>
+        <button class="하단이동">하단가기</button>
+      </Link>
     </div>
   );
 };

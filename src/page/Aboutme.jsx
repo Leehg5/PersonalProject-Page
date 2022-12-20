@@ -48,7 +48,7 @@ const Aboutme = () => {
                 </span>
                 <div>
                   <div>연락처</div>
-                  <div>010-0000-0000</div>
+                  <div>010-5682-5291</div>
                 </div>
               </div>
             </div>
@@ -68,18 +68,14 @@ const Aboutme = () => {
                   <ModeEditIcon fontSize="" color="disabled" />
                 </span>
                 <div>
-                  <div>학력</div>
-                  <div>비밀데스</div>
+                  <div>
+                    <div>이메일</div>
+                    <div>kimo930117@naver.com</div>
+                  </div>
                 </div>
               </div>
               <div class="Aboutme1div">
-                <span class="Aboutme1icon">
-                  <MailIcon fontSize="" color="disabled" />
-                </span>
-                <div>
-                  <div>이메일</div>
-                  <div>kimo930117@naver.com</div>
-                </div>
+                <span class="Aboutme1icon"></span>
               </div>
             </div>
           </div>

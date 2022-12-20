@@ -47,13 +47,15 @@
   text-align: center;
   padding: 20px;
   div:nth-child(1) {
-    font-size: 25px;
+    font-size: 30px;
+    font-weight: bold;
   }
   div:nth-child(2) {
-    font-size: 18px;
+    font-size: 20px;
     margin-top: 20px;
+
     span {
-      color: red;
+      color: #01b4eb;
     }
   }
 }
@@ -65,21 +67,25 @@
     font-size: 15px;
   }
   span {
-    color: red;
+    color: #01b4eb;
   }
 }
 hr {
   border-bottom: 1px solid #ccc;
 }
 .coin {
-  margin-top: 20px;
-  margin-bottom: 20px;
+  margin-top: 10px;
+  margin-bottom: 10px;
   display: table;
   padding: 0.5rem 1rem;
   background-color: #222;
   border-radius: 0.25rem;
   color: #fff;
   cursor: pointer;
+}
+.coin:hover {
+  color: #01b4eb;
+  font-weight: bold;
 }
 table {
   margin-top: 20px;

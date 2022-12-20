@@ -4,7 +4,7 @@ import { Link } from "react-scroll";
 
 const Navbar = () => {
   return (
-    <div class="Navbar">
+    <div id="f" class="Navbar">
       <div class="Navbar-wrap">
         <div class="Navbar-image">
           <img src="https://i.postimg.cc/nLs1Z2gz/image.jpg" alt="" />
@@ -34,11 +34,14 @@ const Navbar = () => {
                 <div>웹 개발자 포토폴리오</div>
 
                 <div>안녕하세요.</div>
-                <div>공부가 취미인 풀 스택 웹 개발자입니다.</div>
                 <div>
-                  매우 꼼꼼한 성격, 그리고 공부를 밥 먹듯이 하는 습관이 저의
-                  장점입니다.
+                  Next.js, React, Spring Boot 기반의 풀스택 개발자 입니다.
                 </div>
+                <div>
+                  개바 분야의 동료들과 원만한 커뮤니케이션 스킬로 팀원과의
+                  소통능력
+                </div>
+                <div>효율적으로 업무를 추진하는 스타일 입니다.</div>
               </div>
             </div>
           </div>

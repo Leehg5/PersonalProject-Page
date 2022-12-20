@@ -50,7 +50,7 @@ const Projects = () => {
 
             <div class="Projectslist1_div">
               <div>
-                코인 증시 정보 공유 할 수 있게 도와주는 웹사이트 입니다.
+                코인과 증시 정보 공유 할 수 있게 도와주는 웹사이트 입니다.
               </div>
               <div>
                 저는 투자 정보에 관심이 많았으며 저와 같이 투자에 관심이 있는
@@ -72,11 +72,15 @@ const Projects = () => {
               <div>
                 전에는 프론트 작업만 팀프로젝트를 진행하였는데 이번엔 팀
                 프로젝트로 구간을 나누워 진행을 하였고 그과정에{" "}
-                <span>소통 협동심이 누구하나 빠짐없이 완성</span> 하는 것에
-                감사하였습니다
+                <span>부족한 부분이 있었지만</span> 기본에 충실하게 프로젝트를
+                진행 하었습니다.
               </div>
-              <a href="" class="coin">
-                <button>자세히 보기</button>
+
+              <a href="http://www.noh.world:3000/" class="coin">
+                <button>사이트 이동</button>
+              </a>
+              <a href="https://wiken.io/ken/11515" class="coin">
+                <button>기술서 이동</button>
               </a>
               <hr />
               <table>
@@ -84,25 +88,20 @@ const Projects = () => {
                   <tr>
                     <td>주요 기능</td>
                     <td>
-                      로그인,회원가입,검색,실시간 인기글,증시 전일 데이테
-                      API,코인 데이터 API,상세페이지,각게시판,로그인시
-                      글쓰기,수정,삭제, 로그인시 댓글쓰기,삭제,관리자
-                      기능,검색기능,목록 리스트화
+                      로그인,회원가입,검색기능,실시간 인기글,증시 전일 데이테
+                      API,코인 현시간 데이터 API,상세페이지,각게시판,로그인시
+                      글쓰기,수정,삭제, 로그인시 댓글쓰기,삭제,관리자 기능,목록
+                      리스트화
                     </td>
                   </tr>
-                  <tr>
-                    <td>GitHub</td>
-                    <td>아직은 없쪄용</td>
-                  </tr>
+
                   <tr>
                     <td>Frontend</td>
                     <td>React,Tailwind,dasiy,Material-ul,Visual Studio Code</td>
                   </tr>
                   <tr>
                     <td>Backend</td>
-                    <td>
-                      Spring Boot,IntelliJ IDEA Community Edition 2022.2.2
-                    </td>
+                    <td>Spring Boot,IntelliJ, Postman</td>
                   </tr>
                   <tr>
                     <td>Database</td>
@@ -147,8 +146,11 @@ const Projects = () => {
               기회가 되었습니다. 이후 다른 작업시 쉽게 이해는 계기가 되었습니다.
             </div>
 
-            <a href="" class="coin">
-              <button>자세히 보기</button>
+            <a
+              href="https://github.com/Leehg5/portfolio-PersonalProject-"
+              class="coin"
+            >
+              <button>깃허브 이동</button>
             </a>
             <hr />
             <table>
@@ -160,10 +162,7 @@ const Projects = () => {
                     링크, 프로젝트 경험, 학원 수업
                   </td>
                 </tr>
-                <tr>
-                  <td>GitHub</td>
-                  <td>아직은 없쪄용</td>
-                </tr>
+
                 <tr>
                   <td>Frontend</td>
                   <td>React,Tailwind,dasiy,Material-ul,Visual Studio Code</td>

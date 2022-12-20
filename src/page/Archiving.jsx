@@ -7,10 +7,13 @@ const Archiving = () => {
       <div class="Archivingtitle">Archiving </div>
       <div class="Archivinglist">
         <div class="Archivinglist_div">
-          <img src="https://i.postimg.cc/mknPtbtm/image.png" alt="" />
+          <img
+            src="https://media.discordapp.net/attachments/1044869991683596290/1053230850663252018/558d9f6a0a5681b5.png"
+            alt=""
+          />
 
           <div>
-            <a href="http://localhost:3000/">http://localhost:3000/</a>
+            <a href="https://github.com/Leehg5">깃 허브 사이트 이동</a>
           </div>
 
           <div>
@@ -20,9 +23,14 @@ const Archiving = () => {
           <li>혼자 연습한 소스 코드</li>
         </div>
         <div class="Archivinglist_div">
-          <img src="https://i.postimg.cc/gcygfKBC/image.png" alt="" />
+          <img
+            src="https://media.discordapp.net/attachments/1044869991683596290/1053230850990411776/31825375d0d55fcf.png"
+            alt=""
+          />
           <div>
-            <a href="http://localhost:3000/">http://localhost:3000/</a>
+            <a href="https://tv.kakao.com/channel/4014899/cliplink/432694066?metaObjectType=Channel">
+              카카오 TV 사이트 이동
+            </a>
           </div>
 
           <div>
