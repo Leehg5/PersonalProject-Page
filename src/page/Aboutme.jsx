@@ -44,7 +44,6 @@ const Aboutme = () => {
               </div>
               <div class="Aboutme1div">
                 <span class="Aboutme1icon">
-                  <CakeIcon fontSize="" color="disabled" />
                   <PhoneIcon fontSize="" color="disabled" />
                 </span>
                 <div>
