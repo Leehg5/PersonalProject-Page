@@ -35,7 +35,7 @@ const Aboutme = () => {
 
               <div class="Aboutme1div">
                 <span class="Aboutme1icon">
-                  <PhoneIcon fontSize="" color="disabled" />
+                  <CakeIcon fontSize="" color="disabled" />
                 </span>
                 <div>
                   <div>생년월일</div>
@@ -45,6 +45,7 @@ const Aboutme = () => {
               <div class="Aboutme1div">
                 <span class="Aboutme1icon">
                   <CakeIcon fontSize="" color="disabled" />
+                  <PhoneIcon fontSize="" color="disabled" />
                 </span>
                 <div>
                   <div>연락처</div>
